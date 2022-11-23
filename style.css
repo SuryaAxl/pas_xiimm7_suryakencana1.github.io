@@ -1,0 +1,28 @@
+h2{
+    font-family:Times New Roman ;
+}
+
+h4{
+    font-family: Times New Roman;
+}
+
+h3{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+h5{
+    font-family: Times New Roman;
+    background-color:#D8A47F ;
+    color: white;
+}
+
+h6{
+    font-family: Sans-Serif;
+    background-color: brown;
+    color: white;
+}
+
+.btn{
+    margin-left: 150px;
+}
